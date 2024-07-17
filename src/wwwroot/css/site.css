@@ -176,3 +176,7 @@ input:checked + .slider:before {
 .blazored-toast-message {
     hyphens:none !important;
 }
+
+.navbar-brand::before {
+    content: "Tactuum Azure" !important;
+}
